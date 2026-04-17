@@ -72,10 +72,10 @@ export function Contact() {
                         initial={{ opacity: 0, y: 40 }}
                         animate={isInView ? { opacity: 1, y: 0 } : {}}
                         transition={{ duration: 0.8, delay: 0.2 }}
-                        className="bg-[#1c1c24] bg-opacity-80 backdrop-blur-lg rounded-2xl p-8 lg:p-12 border border-[#2a2f4a] shadow-2xl"
+                        className="bg-[#1c1c24] bg-opacity-80 backdrop-blur-lg rounded-2xl p-4 md:p-8 lg:p-12 border border-[#2a2f4a] shadow-2xl"
                     >
                         {/* Contact Methods */}
-                        <div className="grid md:grid-cols-3 gap-6 mb-12">
+                        <div className="grid md:grid-cols-3 gap-6 mb-12 ">
                             {contactMethods.map((method, index) => (
                                 <motion.a
                                     key={method.label}
