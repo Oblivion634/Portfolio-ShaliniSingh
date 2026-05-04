@@ -11,7 +11,7 @@ export function Projects() {
       description: 'A responsive MERN-based civic issue reporting platform with secure JWT authentication, role-based dashboards, and an interactive UI using React, Tailwind CSS, and Framer Motion.',
       tech: ['React', 'Node.js', 'MongoDB', 'Express', 'Tailwind CSS'],
       github: 'https://github.com/Oblivion634/Hamari-Awaaz',
-      demo: '',
+      demo: 'https://hamari-awaaz.vercel.com/',
       gradient: 'from-[#4a6fa5] to-[#2a3f6a]',
     },
     {
