@@ -19,7 +19,7 @@ export function Hero() {
 
   const downloadResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1VkJ5qpPjdZgDgrpiD1gTL535paJW7dd_/view?usp=sharing",
+      "https://drive.google.com/file/d/1VTu2wjcimvDs-44aVCdL8ZC0Ob-RQOzv/view?usp=sharing",
       "_blank"
     );
   };

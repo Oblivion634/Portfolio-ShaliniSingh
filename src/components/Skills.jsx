@@ -19,7 +19,7 @@ export function Skills() {
             title: 'Frontend',
             icon: Code2,
             color: '#4a6fa5',
-            skills: ['React', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'TypeScript', 'Redux'],
+            skills: ['React JS', 'Next JS', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'TypeScript', 'Redux'],
         },
         {
             title: 'Backend',
